@@ -1,1 +1,1 @@
-# practical-DL
+# Practical Deep Learning projects
